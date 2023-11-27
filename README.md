@@ -1,6 +1,6 @@
-Developed by: Sandhiya V  
+Developed by:M.Deeraj
 
-RegisterNumber: 22007409  
+RegisterNumber:23000244
 
 AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
