@@ -82,7 +82,7 @@ endmodule
 Output:  
 
 Logic symbol & Truthtable
-![WhatsApp Image 2022-12-27 at 14 19 49](https://user-images.githubusercontent.com/121559414/210081148-25ee2404-9f5e-4862-a9bc-db397f9a58fd.jpg)
+![WhatsApp Image 2022-12-27 at 14 19 49](https://user-images.githubusercontent.com/121559414/210081148-25ee2404-9f5e-4862-a9bc-db397f9a58fd.jpg) 
 
 RTL realization
 ![Screenshot_20221227_015717](https://user-images.githubusercontent.com/121559414/210081066-b8eb67a9-9e2a-4b63-8833-f05ca0be0a97.png)
