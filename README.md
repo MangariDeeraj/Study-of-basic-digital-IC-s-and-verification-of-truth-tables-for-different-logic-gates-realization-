@@ -2,7 +2,7 @@ Developed by:M.Deeraj
 
 RegisterNumber:23000244
 
-AIM:
+AIM 
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 Equipments Required:
