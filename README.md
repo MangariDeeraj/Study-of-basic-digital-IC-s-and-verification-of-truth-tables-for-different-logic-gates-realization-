@@ -45,7 +45,7 @@ This is a NOT-OR gate which is equal to an OR gate followed by a NOT gate. The o
 Y= (A+B)’
 
 6) Ex-OR gate
-The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not both of its two inputs are high. An encircled plus sign (⊕) is used to show the Ex-OR operation.
+The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not  both of its two inputs are high. An encircled plus sign (⊕) is used to show the Ex-OR operation.
 
 Y= A⊕B
 
